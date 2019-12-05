@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ftl" type="HTML" />
       <mapping ext="ftlh" type="PLAIN_TEXT" />
-      <mapping ext="ftl" type="PLAIN_TEXT" />
+      <removed_mapping ext="ftl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
