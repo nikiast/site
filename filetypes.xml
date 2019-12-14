@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <removed_mapping ext="ftlh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ftl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
